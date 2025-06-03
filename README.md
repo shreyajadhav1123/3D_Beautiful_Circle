@@ -22,3 +22,19 @@ Fully responsive and modern design
 HTML5
 
 CSS3 (Keyframes, Gradients, Box-shadow, Filters)
+
+html  
+css  
+css-animation  
+glowing-circle  
+3d-animation  
+ui-design  
+web-animation  
+frontend  
+pure-css  
+animated-loader  
+css-effects  
+responsive-design  
+landing-page  
+creative-ui  
+visual-effects  
